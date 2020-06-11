@@ -1,2 +1,2 @@
 # Chat Room App
-Chat Room Application using Elixir / Phoenix 
+=> Chat Room Application using Elixir / Phoenix 
